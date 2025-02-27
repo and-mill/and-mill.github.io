@@ -11,7 +11,7 @@ Since 2023, I have been a PhD student at the [Ruhr University Bochum]("https://w
 
 Previously, I was an internal auditor and data analyst at [Volkswagen Group]("https://www.volkswagen-group.com/").
 
-I completed my studies at [Technical University of Braunschweig]("https://www.tu-braunschweig.de/"), specializing in IT security. During that time, I was also a co-founder and backend developer at AIPARK, which is now called [Bliq]("https://www.bliq.app/"), as well as a student assistant to my current supervisor [Erwin Quiring]("https://scholar.google.de/citations?user=yR0cDFoAAAAJ&hl=de").
+I completed my studies at [Technical University of Braunschweig]("https://www.tu-braunschweig.de/"), specializing in IT security. During that time, I was also a co-founder and backend developer at AIPARK, which is now called [Bliq]("https://www.bliq.app/"), as well as a student assistant to my current PhD supervisor [Erwin Quiring]("https://scholar.google.de/citations?user=yR0cDFoAAAAJ&hl=de").
 
 
 <div style="margin-bottom: 15px;">
