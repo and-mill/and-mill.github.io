@@ -18,11 +18,11 @@ I completed my studies at [Technical University of Braunschweig]("https://www.tu
   <a href="mailto:andreas.mueller-t1x@ruhr-uni-bochum.de" target="_blank" title="Mail">
     <img src="images/mail.png" height="27" style="margin:3px"></a>
   <a href="https://scholar.google.com/citations?hl=de&user=DtFxQ_IAAAAJ" target="_blank" title="Google Scholar">
-    <img src="images/scholar.png" height="30" style="margin:3px"></a>
+    <img src="images/scholar.svg" height="30" style="margin:3px"></a>
   <a href="https://orcid.org/0009-0003-1199-4477" target="_blank" title="ORCID">
     <img src="images/orcid.png" height="30" style="margin:3px"></a>
   <a href="https://github.com/and-mill" target="_blank" title="GitHub">
-    <img src="images/github.png" height="35" style="margin:3px"></a>
+    <img src="images/github.svg" height="35" style="margin:3px"></a>
   &emsp;
   <a href="https://www.tu-braunschweig.de/" target="_blank" title="TU Braunschweig">
     <img src="images/unibs.png" height="30" style="margin:1px"></a>
