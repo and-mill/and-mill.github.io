@@ -7,7 +7,7 @@ layout: home
 
 ## **Andreas** Müller
 
-Since 2023, I have been a PhD student at the [Ruhr University Bochum]("https://www.ruhr-uni-bochum.de") with generous supported by the <a href="https://casa.rub.de/en/about" target="_blank">CASA</a> cluster of excellence in Germany. My current work aims at improving the robustness of watermarking techniques for generative AI.
+Since 2023, I have been a PhD student at the [Ruhr University Bochum]("https://www.ruhr-uni-bochum.de") with generous support by the <a href="https://casa.rub.de/en/about" target="_blank">CASA</a> cluster of excellence in Germany. My current work aims at improving the robustness of watermarking techniques for generative AI.
 
 Previously, I was an internal auditor and data analyst at [Volkswagen Group]("https://www.volkswagen-group.com/").
 
