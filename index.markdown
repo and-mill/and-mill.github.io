@@ -40,7 +40,7 @@ I completed my studies at [Technical University of Braunschweig]("https://www.tu
     <ul>
         <li>02/2025: We received the notification that our paper <a href="https://arxiv.org/abs/2412.03283" target="_blank">Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models</a> is accepted at <a href="https://cvpr.thecvf.com/" target="_blank">CVPR 2025</a> in Nashville!</li>
         <li>05/2024: Our paper <a href="https://arxiv.org/abs/2403.18587" target="_blank">The Impact of Uniform Inputs on Activation Sparsity and Energy-Latency Attacks in Computer Vision</a> receives the best paper award at the <a href="https://dlsp2024.ieee-security.org/" target="_blank">Deep Learning Security and Privacy Workshop</a> collocated with the S&P conference in San Francisco!</li>
-        <li>01/2024: I am visiting my supervisor Erwin Quiring at the <a href="https://www.icsi.berkeley.edu/" target="_blank">International Computer Science Institute (ICSI)</a> affiliated with UC Berkeley for a few months.</li>
+        <li>01/2024: I am spending a few months at the <a href="https://www.icsi.berkeley.edu/" target="_blank">International Computer Science Institute (ICSI)</a>, affiliated with UC Berkeley, for a research visit.</li>
     </ul>
 </div>
 
