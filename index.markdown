@@ -7,11 +7,11 @@ layout: home
 
 ## **Andreas** Müller
 
-Since 2023, I have been a PhD student at the [Ruhr University Bochum]("https://www.ruhr-uni-bochum.de") with generous support by the <a href="https://casa.rub.de/en/about" rel="noopener noreferrer" target="_blank">CASA</a> cluster of excellence in Germany. My current work aims at improving the robustness of watermarking techniques for generative AI.
+Since 2023, I have been a PhD student at the <a href="https://www.ruhr-uni-bochum.de" rel="noopener noreferrer" target="_blank">Ruhr University Bochum</a> with generous support by the <a href="https://casa.rub.de/en/about" rel="noopener noreferrer" target="_blank">CASA</a> cluster of excellence in Germany. My current work aims at improving the robustness of watermarking techniques for generative AI.
 
-Previously, I was an internal auditor and data analyst at [Volkswagen Group]("https://www.volkswagen-group.com/").
+Previously, I was an internal auditor and data analyst at <a href="https://www.volkswagen-group.com/" rel="noopener noreferrer" target="_blank">Volkswagen Group</a>.
 
-I completed my studies at [Technical University of Braunschweig]("https://www.tu-braunschweig.de/"), specializing in IT security. During that time, I was also a co-founder and backend developer at AIPARK, which is now called [Bliq]("https://www.bliq.app/"), as well as a student assistant to my current PhD supervisor [Erwin Quiring]("https://scholar.google.de/citations?user=yR0cDFoAAAAJ&hl=de").
+I completed my studies at <a href="https://www.tu-braunschweig.de/" rel="noopener noreferrer" target="_blank">Technical University of Braunschweig</a>, specializing in IT security. During that time, I was also a co-founder and backend developer at AIPARK, which is now called <a href="https://www.bliq.app/" rel="noopener noreferrer" target="_blank">Bliq</a>, as well as a student assistant to my current PhD supervisor <a href="https://scholar.google.de/citations?user=yR0cDFoAAAAJ&hl=de" rel="noopener noreferrer" target="_blank">Erwin Quiring</a>.
 
 
 <div style="margin-bottom: 15px;">
