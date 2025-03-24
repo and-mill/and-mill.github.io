@@ -7,7 +7,7 @@ layout: home
 
 ## **Andreas** Müller
 
-Since 2023, I have been a PhD student at the [Ruhr University Bochum]("https://www.ruhr-uni-bochum.de") with generous support by the <a href="https://casa.rub.de/en/about" target="_blank">CASA</a> cluster of excellence in Germany. My current work aims at improving the robustness of watermarking techniques for generative AI.
+Since 2023, I have been a PhD student at the [Ruhr University Bochum]("https://www.ruhr-uni-bochum.de") with generous support by the <a href="https://casa.rub.de/en/about" rel="noopener noreferrer" target="_blank">CASA</a> cluster of excellence in Germany. My current work aims at improving the robustness of watermarking techniques for generative AI.
 
 Previously, I was an internal auditor and data analyst at [Volkswagen Group]("https://www.volkswagen-group.com/").
 
@@ -29,18 +29,15 @@ I completed my studies at [Technical University of Braunschweig]("https://www.tu
   &ensp;
   <a href="https://www.ruhr-uni-bochum.de" target="_blank" title="RUB">
     <img src="images/unirub.png" height="30" style="margin:0px"></a>
-  <!--- &ensp;
-  <a href="https://www.icsi.berkeley.edu/" target="_blank" title="ICSI">
-    <img src="images/icsi.png" height="30" style="margin:1px"></a> !--->
 </div>
 
 ## Recent News
 
 <div style="margin-top: 15px;">
     <ul>
-        <li>02/2025: We received the notification that our paper <a href="https://arxiv.org/abs/2412.03283" target="_blank">Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models</a> is accepted at <a href="https://cvpr.thecvf.com/" target="_blank">CVPR 2025</a> in Nashville!</li>
-        <li>05/2024: Our paper <a href="https://arxiv.org/abs/2403.18587" target="_blank">The Impact of Uniform Inputs on Activation Sparsity and Energy-Latency Attacks in Computer Vision</a> receives the best paper award at the <a href="https://dlsp2024.ieee-security.org/" target="_blank">Deep Learning Security and Privacy Workshop</a> collocated with the S&P conference in San Francisco!</li>
-        <li>01/2024: I am spending a few months at the <a href="https://www.icsi.berkeley.edu/" target="_blank">International Computer Science Institute (ICSI)</a>, affiliated with UC Berkeley, for a research visit.</li>
+        <li>02/2025: We received the notification that our paper <a href="https://arxiv.org/abs/2412.03283" rel="noopener noreferrer" target="_blank">Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models</a> is accepted at <a href="https://cvpr.thecvf.com/" rel="noopener noreferrer" target="_blank">CVPR 2025</a> in Nashville!</li>
+        <li>05/2024: Our paper <a href="https://arxiv.org/abs/2403.18587" rel="noopener noreferrer" target="_blank">The Impact of Uniform Inputs on Activation Sparsity and Energy-Latency Attacks in Computer Vision</a> receives the best paper award at the <a href="https://dlsp2024.ieee-security.org/" rel="noopener noreferrer" target="_blank">Deep Learning Security and Privacy Workshop</a> collocated with the S&P conference in San Francisco!</li>
+        <li>01/2024: I am spending a few months at the <a href="https://www.icsi.berkeley.edu/" rel="noopener noreferrer" target="_blank">International Computer Science Institute (ICSI)</a>, affiliated with UC Berkeley, for a research visit.</li>
     </ul>
 </div>
 
