@@ -35,7 +35,7 @@ I completed my studies at <a href="https://www.tu-braunschweig.de/" rel="noopene
 
 <div style="margin-top: 15px;">
     <ul>
-        <li>02/2025: We received the notification that our paper <a href="https://arxiv.org/abs/2412.03283" rel="noopener noreferrer" target="_blank">Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models</a> is accepted at <a href="https://cvpr.thecvf.com/" rel="noopener noreferrer" target="_blank">CVPR 2025</a> in Nashville!</li>
+        <li>04/2025: Our paper <a href="https://arxiv.org/abs/2412.03283" rel="noopener noreferrer" target="_blank">Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models</a> is accepted as an oral presentation at <a href="https://cvpr.thecvf.com/" rel="noopener noreferrer" target="_blank">CVPR 2025</a> in Nashville!</li>
         <li>05/2024: Our paper <a href="https://arxiv.org/abs/2403.18587" rel="noopener noreferrer" target="_blank">The Impact of Uniform Inputs on Activation Sparsity and Energy-Latency Attacks in Computer Vision</a> receives the best paper award at the <a href="https://dlsp2024.ieee-security.org/" rel="noopener noreferrer" target="_blank">Deep Learning Security and Privacy Workshop</a> collocated with the S&P conference in San Francisco!</li>
         <li>01/2024: I am spending a few months at the <a href="https://www.icsi.berkeley.edu/" rel="noopener noreferrer" target="_blank">International Computer Science Institute (ICSI)</a>, affiliated with UC Berkeley, for a research visit.</li>
     </ul>
