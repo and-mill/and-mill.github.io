@@ -55,7 +55,7 @@ Preprint, 2025<br/>
 
 **Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models**<br/>
 A. Müller, D. Lukovnikov, J. Thietke, A. Fischer, and E. Quiring<br/>
-Accepted at the Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025<br/>
+Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025<br/>
 [[html](https://arxiv.org/abs/2412.03283)], [[pdf](https://arxiv.org/pdf/2412.03283)]
 <br/>
 
