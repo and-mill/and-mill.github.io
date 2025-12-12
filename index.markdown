@@ -35,7 +35,7 @@ I completed my studies at <a href="https://www.tu-braunschweig.de/" rel="noopene
 
 <div style="margin-top: 15px;">
     <ul>
-        <li>12/2025: Our paper <a href="https://www.arxiv.org/abs/2512.09549" rel="noopener noreferrer" target="_blank">Chasing Shadows: Pitfalls in LLM Security Research</a> was accepted at <a href="https://www.ndss-symposium.org/ndss2026/" rel="noopener noreferrer" target="_blank">NDSS Symposium 2026</a> and is now available on <a href="https://www.arxiv.org/abs/2512.09549" rel="noopener noreferrer" target="_blank">ArXiv</a></li>
+        <li>12/2025: Our paper <a href="https://www.arxiv.org/abs/2512.09549" rel="noopener noreferrer" target="_blank">Chasing Shadows: Pitfalls in LLM Security Research</a> was accepted at <a href="https://www.ndss-symposium.org/ndss2026/" rel="noopener noreferrer" target="_blank">NDSS Symposium 2026</a> and is now available on <a href="https://www.arxiv.org/abs/2512.09549" rel="noopener noreferrer" target="_blank">ArXiv</a>.</li>
         <li>06/2025: I give an oral presentation on our paper <a href="https://arxiv.org/abs/2412.03283" rel="noopener noreferrer" target="_blank">Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models</a> at <a href="https://cvpr.thecvf.com/" rel="noopener noreferrer" target="_blank">CVPR 2025</a> in Nashville!</li>
         <li>05/2025: We present our papers <a href="https://arxiv.org/abs/2503.11404" rel="noopener noreferrer" target="_blank">Towards a Correct Usage of Cryptography in Semantic Watermarks for Diffusion Models</a> (oral) and <a href="https://arxiv.org/abs/2503.11404" rel="noopener noreferrer" target="_blank">Are Semantic Watermarks for Diffusion Models Resilient to Layout Control?</a> (poster) at the <a href="https://iclr.cc/virtual/2025/workshop/23975" rel="noopener noreferrer" target="_blank">ICLR 2025 Workshop on GenAI Watermarking (WMARK)</a> in Singapore.</li>
         <li>05/2024: Our paper <a href="https://arxiv.org/abs/2403.18587" rel="noopener noreferrer" target="_blank">The Impact of Uniform Inputs on Activation Sparsity and Energy-Latency Attacks in Computer Vision</a> receives the best paper award at the <a href="https://dlsp2024.ieee-security.org/" rel="noopener noreferrer" target="_blank">Deep Learning Security and Privacy Workshop</a> collocated with the S&P conference in San Francisco!</li>
@@ -47,7 +47,7 @@ I completed my studies at <a href="https://www.tu-braunschweig.de/" rel="noopene
 <img src="images/pitfalls_2026.png" height="100" style="float:left; margin:5px 25px 0px 30px">
 
 **Towards Robust Red-Green Watermarking for Autoregressive Image Generators**<br/>
-Jonathan Evertz, Niklas Risse, Nicolai Neuer, Andreas Müller, Philipp Normann, Gaetano Sapia, Srishti Gupta, David Pape, Soumya Shaw, Devansh Srivastav, Christian Wressnegger, Erwin Quiring, Thorsten Eisenhofer, Daniel Arp, Lea Schönherr<br/>
+J. Evertz, N. Risse, N. Neuer, A. Müller, P. Normann, G. Sapia, S. Gupta, D. Pape, S. Shaw, D. Srivastav, C. Wressnegger, E. Quiring, T. Eisenhofer, D. Arp, L. Schönherr<br/>
 Preprint, 2025<br/>
 [[html](https://arxiv.org/abs/2512.09549)], [[pdf](https://arxiv.org/pdf/2512.09549)]
 <br/>
@@ -55,7 +55,7 @@ Preprint, 2025<br/>
 <img src="images/war_2025.png" height="100" style="float:left; margin:5px 25px 0px 30px">
 
 **Towards Robust Red-Green Watermarking for Autoregressive Image Generators**<br/>
-Denis Lukovnikov\*, Andreas Müller\*, Erwin Quiring and Asja Fischer<br/>
+D. Lukovnikov\*, A. Müller\*, E. Quiring and A. Fischer<br/>
 Preprint, 2025<br/>
 [[html](https://arxiv.org/abs/2508.06656)], [[pdf](https://arxiv.org/pdf/2508.06656)]
 <br/>
@@ -63,7 +63,7 @@ Preprint, 2025<br/>
 <img src="images/forgery_2025.png" height="100" style="float:left; margin:5px 25px 0px 30px">
 
 **Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models**<br/>
-Andreas Müller, Denis Lukovnikov, Jonas Thietke, Asja Fischer, and Erwin Quiring<br/>
+A. Müller, D. Lukovnikov, J. Thietke, A. Fischer, and E. Quiring<br/>
 Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025<br/>
 [[html](https://arxiv.org/abs/2412.03283)], [[pdf](https://arxiv.org/pdf/2412.03283)]
 <br/>
@@ -71,7 +71,7 @@ Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025<br/>
 <img src="images/layout_2025.png" height="100" style="float:left; margin:5px 25px 0px 30px">
 
 **Are Semantic Watermarks for Diffusion Models Resilient to Layout Control?**<br/>
-Denis Lukovnikov, Andreas Müller, Jonas Thietke, and Erwin Quiring, Asja Fischer<br/>
+D. Lukovnikov, A. Müller, J. Thietke, and E. Quiring, A. Fischer<br/>
 ICLR 2025 Workshop on GenAI Watermarking (**WMARK**), 2025<br/>
 [[html](https://openreview.net/forum?id=pFMNK403AH)], [[pdf](https://openreview.net/pdf?id=pFMNK403AH)]
 <br/>
@@ -79,7 +79,7 @@ ICLR 2025 Workshop on GenAI Watermarking (**WMARK**), 2025<br/>
 <img src="images/towards_2025.png" height="100" style="float:left; margin:5px 25px 0px 30px">
 
 **Towards a correct usage of cryptography in semantic watermarks for diffusion models**<br/>
-Jonas Thietke, Andreas Müller, Denis Lukovnikov, Asja Fischer, and Erwin Quiring<br/>
+J. Thietke, A. Müller, D. Lukovnikov, A. Fischer, and E. Quiring<br/>
 ICLR 2025 Workshop on GenAI Watermarking (**WMARK**), 2025<br/>
 [[html](https://arxiv.org/abs/2503.11404)], [[pdf](https://arxiv.org/pdf/2503.11404)]
 <br/>
@@ -87,7 +87,7 @@ ICLR 2025 Workshop on GenAI Watermarking (**WMARK**), 2025<br/>
 <img src="images/energy_2024.png" height="100" style="float:left; margin:5px 25px 0px 30px">
 
 **The Impact of Uniform Inputs on Activation Sparsity and Energy-Latency Attacks in Computer Vision**<br/>
-Andreas Müller and Erwin Quiring<br/>
+A. Müller and E. Quiring<br/>
 S&P Deep Learning Security and Privacy Workshop (**DLSP**), 2024<br/>
 [[html](https://arxiv.org/abs/2403.18587)], [[pdf](https://arxiv.org/pdf/2403.18587)]
 <br/>
@@ -95,7 +95,7 @@ S&P Deep Learning Security and Privacy Workshop (**DLSP**), 2024<br/>
 <img src="images/scaling_2023.png" height="100" style="float:left; margin:5px 25px 0px 30px">
 
 **On the Detection of Image-Scaling Attacks in Machine Learning**<br/>
-Erwin Quiring, Andreas Müller, and Konrad Rieck<br/>
+E. Quiring, A. Müller, and K. Rieck<br/>
 Annual Computer Security Applications Conference (**ACSAC**), 2023<br/>
 [[html](https://arxiv.org/abs/2310.15085)], [[pdf](https://dl.acm.org/doi/pdf/10.1145/3627106.3627134)]
 <br/>
