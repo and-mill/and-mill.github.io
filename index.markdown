@@ -49,7 +49,7 @@ I completed my studies at <a href="https://www.tu-braunschweig.de/" rel="noopene
 **Towards Robust Red-Green Watermarking for Autoregressive Image Generators**<br/>
 Jonathan Evertz, Niklas Risse, Nicolai Neuer, Andreas Müller, Philipp Normann, Gaetano Sapia, Srishti Gupta, David Pape, Soumya Shaw, Devansh Srivastav, Christian Wressnegger, Erwin Quiring, Thorsten Eisenhofer, Daniel Arp, Lea Schönherr<br/>
 Preprint, 2025<br/>
-[[html](https://arxiv.org/abs/2508.06656)], [[pdf](https://arxiv.org/pdf/2508.06656)]
+[[html](https://arxiv.org/abs/2512.09549)], [[pdf](https://arxiv.org/pdf/2512.09549)]
 <br/>
 
 <img src="images/war_2025.png" height="100" style="float:left; margin:5px 25px 0px 30px">
