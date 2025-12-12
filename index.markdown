@@ -47,8 +47,7 @@ I completed my studies at <a href="https://www.tu-braunschweig.de/" rel="noopene
 <img src="images/pitfalls_2026.png" height="100" style="float:left; margin:5px 25px 0px 30px">
 
 **Towards Robust Red-Green Watermarking for Autoregressive Image Generators**<br/>
-J. Evertz, N. Risse, N. Neuer, A. Müller, P. Normann, G. Sapia, S. Gupta, D. Pape, S. Shaw, D. Srivastav, C. Wressnegger, E. Quiring, T. Eisenhofer, D. Arp, L. Schönherr<br/>
-Preprint, 2025<br/>
+J. Evertz, N. Risse, N. Neuer, A. Müller, P. Normann, G. Sapia, S. Gupta, D. Pape, S. Shaw, D. Srivastav, C. Wressnegger, E. Quiring, T. Eisenhofer, D. Arp, L. Schönherr. (**NDSS 2026**), 2025. 
 [[html](https://arxiv.org/abs/2512.09549)], [[pdf](https://arxiv.org/pdf/2512.09549)]
 <br/>
 
