@@ -35,6 +35,7 @@ I completed my studies at <a href="https://www.tu-braunschweig.de/" rel="noopene
 
 <div style="margin-top: 15px;">
     <ul>
+        <li>12/2025: Our paper <a href="https://arxiv.org/abs/2508.06656" rel="noopener noreferrer" target="_blank">ClusterMark: Towards Robust Watermarking for Autoregressive Image Generators with Visual Token Clustering</a> was accepted at <a href="https://cvpr.thecvf.com/" rel="noopener noreferrer" target="_blank">CVPR 2026</a> in Denver!</li>
         <li>12/2025: Our paper <a href="https://www.arxiv.org/abs/2512.09549" rel="noopener noreferrer" target="_blank">Chasing Shadows: Pitfalls in LLM Security Research</a> was accepted at <a href="https://www.ndss-symposium.org/ndss2026/" rel="noopener noreferrer" target="_blank">NDSS Symposium 2026</a> and is now available on <a href="https://www.arxiv.org/abs/2512.09549" rel="noopener noreferrer" target="_blank">ArXiv</a>.</li>
         <li>06/2025: I give an oral presentation on our paper <a href="https://arxiv.org/abs/2412.03283" rel="noopener noreferrer" target="_blank">Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models</a> at <a href="https://cvpr.thecvf.com/" rel="noopener noreferrer" target="_blank">CVPR 2025</a> in Nashville!</li>
         <li>05/2025: We present our papers <a href="https://arxiv.org/abs/2503.11404" rel="noopener noreferrer" target="_blank">Towards a Correct Usage of Cryptography in Semantic Watermarks for Diffusion Models</a> (oral) and <a href="https://arxiv.org/abs/2503.11404" rel="noopener noreferrer" target="_blank">Are Semantic Watermarks for Diffusion Models Resilient to Layout Control?</a> (poster) at the <a href="https://iclr.cc/virtual/2025/workshop/23975" rel="noopener noreferrer" target="_blank">ICLR 2025 Workshop on GenAI Watermarking (WMARK)</a> in Singapore.</li>
@@ -44,19 +45,19 @@ I completed my studies at <a href="https://www.tu-braunschweig.de/" rel="noopene
 </div>
 
 ## Publications
+<img src="images/war_2025.png" height="100" style="float:left; margin:5px 25px 0px 30px">
+
+**ClusterMark: Towards Robust Watermarking for Autoregressive Image Generators with Visual Token Clustering**<br/>
+D. Lukovnikov\*, A. Müller\*, E. Quiring and A. Fischer<br/>
+Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026<br/>
+[[html](https://arxiv.org/abs/2508.06656)], [[pdf](https://arxiv.org/pdf/2508.06656)]
+<br/>
+
 <img src="images/pitfalls_2026.png" height="100" style="float:left; margin:5px 25px 0px 30px">
 
 **Chasing Shadows: Pitfalls in LLM Security Research**<br/>
 J. Evertz, N. Risse, N. Neuer, A. Müller, P. Normann, G. Sapia, S. Gupta, D. Pape, S. Shaw, D. Srivastav, C. Wressnegger, E. Quiring, T. Eisenhofer, D. Arp, L. Schönherr. (**NDSS 2026**), 2025. 
 [[html](https://arxiv.org/abs/2512.09549)], [[pdf](https://arxiv.org/pdf/2512.09549)]
-<br/>
-
-<img src="images/war_2025.png" height="100" style="float:left; margin:5px 25px 0px 30px">
-
-**Towards Robust Red-Green Watermarking for Autoregressive Image Generators**<br/>
-D. Lukovnikov\*, A. Müller\*, E. Quiring and A. Fischer<br/>
-Preprint, 2025<br/>
-[[html](https://arxiv.org/abs/2508.06656)], [[pdf](https://arxiv.org/pdf/2508.06656)]
 <br/>
 
 <img src="images/forgery_2025.png" height="100" style="float:left; margin:5px 25px 0px 30px">
