@@ -45,10 +45,18 @@ I completed my studies at <a href="https://www.tu-braunschweig.de/" rel="noopene
 </div>
 
 ## Publications
+<img src="images/mimic_2026.png" height="100" style="float:left; margin:5px 25px 0px 30px">
+
+**On the Robustness of Watermarking for Autoregressive Image Generation**<br/>
+A. Müller, D. Lukovnikov, S. Kodama, M. Pham, A. Jain, J. Petit, N. Cohen, and A. Fischer<br/>
+arXiv<br/>
+[[html](https://arxiv.org/abs/2604.11720)], [[pdf](https://arxiv.org/pdf/2604.11720)]
+<br/>
+
 <img src="images/war_2025.png" height="100" style="float:left; margin:5px 25px 0px 30px">
 
 **ClusterMark: Towards Robust Watermarking for Autoregressive Image Generators with Visual Token Clustering**<br/>
-D. Lukovnikov\*, A. Müller\*, E. Quiring and A. Fischer<br/>
+D. Lukovnikov\*, A. Müller\*, E. Quiring, A. Fischer<br/>
 Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026<br/>
 [[html](https://arxiv.org/abs/2508.06656)], [[pdf](https://arxiv.org/pdf/2508.06656)]
 <br/>
@@ -63,7 +71,7 @@ J. Evertz, N. Risse, N. Neuer, A. Müller, P. Normann, G. Sapia, S. Gupta, D. Pa
 <img src="images/forgery_2025.png" height="100" style="float:left; margin:5px 25px 0px 30px">
 
 **Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models**<br/>
-A. Müller, D. Lukovnikov, J. Thietke, A. Fischer, and E. Quiring<br/>
+A. Müller, D. Lukovnikov, J. Thietke, A. Fischer, E. Quiring<br/>
 Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025<br/>
 [[html](https://arxiv.org/abs/2412.03283)], [[pdf](https://arxiv.org/pdf/2412.03283)]
 <br/>
@@ -71,7 +79,7 @@ Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025<br/>
 <img src="images/layout_2025.png" height="100" style="float:left; margin:5px 25px 0px 30px">
 
 **Are Semantic Watermarks for Diffusion Models Resilient to Layout Control?**<br/>
-D. Lukovnikov, A. Müller, J. Thietke, and E. Quiring, A. Fischer<br/>
+D. Lukovnikov, A. Müller, J. Thietke, E. Quiring, A. Fischer<br/>
 ICLR 2025 Workshop on GenAI Watermarking (**WMARK**), 2025<br/>
 [[html](https://openreview.net/forum?id=pFMNK403AH)], [[pdf](https://openreview.net/pdf?id=pFMNK403AH)]
 <br/>
@@ -79,7 +87,7 @@ ICLR 2025 Workshop on GenAI Watermarking (**WMARK**), 2025<br/>
 <img src="images/towards_2025.png" height="100" style="float:left; margin:5px 25px 0px 30px">
 
 **Towards a correct usage of cryptography in semantic watermarks for diffusion models**<br/>
-J. Thietke, A. Müller, D. Lukovnikov, A. Fischer, and E. Quiring<br/>
+J. Thietke, A. Müller, D. Lukovnikov, A. Fischer, E. Quiring<br/>
 ICLR 2025 Workshop on GenAI Watermarking (**WMARK**), 2025<br/>
 [[html](https://arxiv.org/abs/2503.11404)], [[pdf](https://arxiv.org/pdf/2503.11404)]
 <br/>
@@ -95,7 +103,7 @@ S&P Deep Learning Security and Privacy Workshop (**DLSP**), 2024<br/>
 <img src="images/scaling_2023.png" height="100" style="float:left; margin:5px 25px 0px 30px">
 
 **On the Detection of Image-Scaling Attacks in Machine Learning**<br/>
-E. Quiring, A. Müller, and K. Rieck<br/>
+E. Quiring, A. Müller, K. Rieck<br/>
 Annual Computer Security Applications Conference (**ACSAC**), 2023<br/>
 [[html](https://arxiv.org/abs/2310.15085)], [[pdf](https://dl.acm.org/doi/pdf/10.1145/3627106.3627134)]
 <br/>
