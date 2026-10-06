@@ -35,6 +35,7 @@ I completed my studies at <a href="https://www.tu-braunschweig.de/" rel="noopene
 
 <div style="margin-top: 15px;">
     <ul>
+        <li>10/2026: Our paper <a href="https://arxiv.org/abs/2604.11720" rel="noopener noreferrer" target="_blank">On the Robustness of Watermarking for Autoregressive Image Generation</a> got accepted to <a href="https://neurips.cc/" rel="noopener noreferrer" target="_blank">NeurIPS 2026</a> in Paris!</li>
         <li>02/2026: Our paper <a href="https://arxiv.org/abs/2508.06656" rel="noopener noreferrer" target="_blank">ClusterMark: Towards Robust Watermarking for Autoregressive Image Generators with Visual Token Clustering</a> got accepted to <a href="https://cvpr.thecvf.com/" rel="noopener noreferrer" target="_blank">CVPR 2026</a> in Denver!</li>
         <li>12/2025: Our paper <a href="https://www.arxiv.org/abs/2512.09549" rel="noopener noreferrer" target="_blank">Chasing Shadows: Pitfalls in LLM Security Research</a> got accepted to <a href="https://www.ndss-symposium.org/ndss2026/" rel="noopener noreferrer" target="_blank">NDSS Symposium 2026</a> and is now available on <a href="https://www.arxiv.org/abs/2512.09549" rel="noopener noreferrer" target="_blank">ArXiv</a>.</li>
         <li>06/2025: I give an oral presentation on our paper <a href="https://arxiv.org/abs/2412.03283" rel="noopener noreferrer" target="_blank">Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models</a> at <a href="https://cvpr.thecvf.com/" rel="noopener noreferrer" target="_blank">CVPR 2025</a> in Nashville!</li>
@@ -49,7 +50,7 @@ I completed my studies at <a href="https://www.tu-braunschweig.de/" rel="noopene
 
 **On the Robustness of Watermarking for Autoregressive Image Generation**<br/>
 A. Müller, D. Lukovnikov, S. Kodama, M. Pham, A. Jain, J. Petit, N. Cohen, and A. Fischer<br/>
-arXiv<br/>
+Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026<br/>
 [[html](https://arxiv.org/abs/2604.11720)], [[pdf](https://arxiv.org/pdf/2604.11720)]
 <br/>
 
