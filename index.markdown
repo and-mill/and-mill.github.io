@@ -65,8 +65,8 @@ Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026<br/>
 <img src="images/pitfalls_2026.png" height="100" style="float:left; margin:5px 25px 0px 30px">
 
 **Chasing Shadows: Pitfalls in LLM Security Research**<br/>
-J. Evertz, N. Risse, N. Neuer, A. Müller, P. Normann, G. Sapia, S. Gupta, D. Pape, S. Shaw, D. Srivastav, C. Wressnegger, E. Quiring, T. Eisenhofer, D. Arp, L. Schönherr. (**NDSS 2026**), 2025. 
-[[html](https://arxiv.org/abs/2512.09549)], [[pdf](https://arxiv.org/pdf/2512.09549)]
+J. Evertz, N. Risse, N. Neuer, A. Müller, P. Normann, G. Sapia, S. Gupta, D. Pape, S. Shaw, D. Srivastav, C. Wressnegger, E. Quiring, T. Eisenhofer, D. Arp, L. Schönherr. (**NDSS**), 2026. 
+[[html](https://llmpitfalls.org/)], [[pdf](https://www.ndss-symposium.org/wp-content/uploads/2026-f1749-paper.pdf)]
 <br/>
 
 <img src="images/forgery_2025.png" height="100" style="float:left; margin:5px 25px 0px 30px">
